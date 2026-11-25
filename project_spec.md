@@ -107,8 +107,9 @@ Remaining Work (Teammate Tasks):
 - [ ] **Movie Details & Cast Screen:** Add `MovieDetails` / `CreditsResponse` models and `movie/{movie_id}` + `movie/{movie_id}/credits` endpoints, create `MovieDetailsActivity` with poster, metadata, genres, synopsis, and cast list, and wire `MovieAdapter` item clicks.
 - [ ] **Dark Cinema Theme & Wireframe Polish:** Apply dark cinema palette with gold accents (`colors.xml`, `themes.xml`), style rounded movie cards with star ratings, optionally add the wireframe's "Highest Rated Movies" horizontal row (`movie/top_rated`), and add retry support for network errors.
 - [ ] **Stretch Features (if time permits):** Room local watchlist (connect to long-press), genre chip filtering, and list/grid layout toggle.
-- [ ] **Milestone 2 Submission:** Include **2+ Videos/GIFs** of the build process here!
-
+- [x] **Milestone 2 Submission:** Include **2+ Videos/GIFs** of the build process here!
+  - Gif: <img src='https://i.imgur.com/qv39qCz.gif' title='Video Demo' width='' alt='Video Demo' />
+  - Demo: https://youtu.be/utsiDvkm8JA
 ## License
 
 Copyright **2026** **CineStream Team**

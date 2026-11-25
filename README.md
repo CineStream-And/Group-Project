@@ -8,7 +8,7 @@ Submitted by:
 - Seth Servin
 - Julian Spindola
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Summary
 
@@ -20,19 +20,19 @@ This document provides a summary of our project building process for our app, **
 
 The following REQUIRED features are completed:
 
-- [ ] Assign features to each member of your group
-- [ ] Establish a goal time for completing each feature
+- [x] Assign features to each member of your group
+- [x] Establish a goal time for completing each feature
 
 The following REQUIRED files are included:
 
-- [ ] Updated 📄 `project_spec.md`, which contains:
+- [x] Updated 📄 `project_spec.md`, which contains:
   - [x] App Overview (Milestone 1)
   - [x] App Spec (Milestone 1)
   - [x] Checked off 2+ completed features
-  - [ ] 2+ Videos/GIFs of build progress
+  - [x] 2+ Videos/GIFs of build progress
 
-- [ ] Our 🎥 Demo Video
-  - [ ] We have also added the Demo Video Link to the Group Info Form on the course portal.
+- [x] Our 🎥 Demo Video
+  - [x] We have also added the Demo Video Link to the Group Info Form on the course portal.
 
 The following EXTRA features are implemented:
 
@@ -43,9 +43,9 @@ The following EXTRA features are implemented:
 
 Here's a video that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/qv39qCz.gif' title='Video Demo' width='' alt='Video Demo' />
 
-VIDEO created with **your chosen video tool**
+VIDEO created with **Snipping Tool**
 
 ## Notes
 
@@ -58,7 +58,7 @@ VIDEO created with **your chosen video tool**
 
 | Feature / Workstream | Assigned To | Goal Time | Status |
 | :--- | :--- | :--- | :--- |
-| Barebones Setup, TMDB Networking & Trending Feed | **Team Member Name** | **Target Date** | Completed |
-| Keyword Search (`search/movie`) & Bottom Navigation | **Team Member Name** | **Target Date** | Pending |
-| Movie Details & Cast Screen (`movie/{id}`, `credits`) | **Team Member Name** | **Target Date** | Pending |
-| Dark Cinema Theme, Gold Accents & Home Wireframe Polish | **Team Member Name** | **Target Date** | Pending |
+| Barebones Setup, TMDB Networking & Trending Feed | **Julian** | **11/24** | Completed |
+| Keyword Search (`search/movie`) & Bottom Navigation | **Brandon** | **11/26** | Pending |
+| Movie Details & Cast Screen (`movie/{id}`, `credits`) | **Javier** | **12/1** | Pending |
+| Dark Cinema Theme, Gold Accents & Home Wireframe Polish | **Seth** | **12/5** | Pending |
