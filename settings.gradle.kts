@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "starter code"
+rootProject.name = "CineStream"
 include(":app")
  
